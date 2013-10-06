@@ -1,0 +1,57 @@
+body {
+   padding-top: 80px;
+}
+
+.navbar {
+  background-image: url(../images/bg-carbon.jpg);
+  background-repeat: repeat-x;
+  height: 85px;
+  font-family: Lucida Grande, Lucida Sans, sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.navbar-brand {
+  padding: 0;
+  
+}
+
+.navbar-header {
+  padding-left: 50px;
+  padding-right: 20px;
+  
+  
+}
+
+.cover {
+  height: 385px;
+  background-image: url(../images/pueo.jpg);
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.navbar-inverse .navbar-nav > li> a {
+  margin-left: 30px;
+  margin-right: 20px;
+  margin-top: 25px;
+  color: rgb(229, 237, 220);
+  background: transparent;
+  
+}
+
+.blackbar { 
+  height: 131px;
+  background: black;
+  text-align: center;
+  padding: 25px 0px 0px;
+  margin: 0px;
+}
+
+.blackbar h2 {
+  font-family: Georgia,Times;
+  font-size: 3em;
+  color: rgb(102, 102, 102);
+  font-weight: 700;
+}
+
